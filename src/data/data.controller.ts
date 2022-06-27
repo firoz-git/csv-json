@@ -13,6 +13,7 @@ import { csvToJson } from 'convert-csv-to-json';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { CsvToJsonDto } from './csv.dto';
 import { diskStorage } from 'multer';
+import csv from 'csvtojson';
 
 @Controller('data')
 export class DataController {
@@ -27,6 +28,7 @@ export class DataController {
   async convertData(@Req() req, @Query() query: any, @UploadedFile() file) {
     console.log(file);
     return await this.dataService.convertData(file);
+    // const csvPath = `files/${file.filename}`;
 
     // console.log(result);
     // res.send(result);
@@ -37,4 +39,9 @@ export class DataController {
 
     // return await this.dataService.checkData(csv);
   }
+  // @Post('/simple')
+  // async simpleTest(): Promise<any> {
+  //   const csvPath = `files/${files}`;
+  //   const jsonArray = await csv().fromFile();
+  // }
 }
