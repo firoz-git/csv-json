@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 
 @Injectable()
 export class DataService {
@@ -21,6 +21,7 @@ export class DataService {
       jsonObj.push(obj);
     }
     JSON.stringify(jsonObj);
+    writeFileSync(`files/${file.filename}.json`, JSON.stringify(jsonObj));
     return await jsonObj;
     console.log(jsonObj, 'iam jsonobj');
   }

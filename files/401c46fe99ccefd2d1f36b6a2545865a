@@ -1,0 +1,107 @@
+Main_service,Sub_service,Operator_name,AES_API_operator
+Recharge, mobile, AIRTEL, 1102
+Recharge, mobile, Aircel, 1101
+Recharge, mobile, BSNL - Top Up, 1105
+Recharge, mobile, BSNL - Special, 1106
+Recharge, mobile, Docomo - Top Up, 1116
+Recharge, mobile, Docomo - Special, 1117
+Recharge, mobile, Idea, 1103
+Recharge, mobile, MTNL - Special, 1107
+Recharge, mobile, MTNL - Top Up(Delhi), 1108
+Recharge, mobile, MTNL - Validity(Delhi), 1109
+Recharge, mobile, MTNL - Top Up(Mumbai), 1110
+Recharge, mobile, MTNL - Validity(Mumbai), 1111
+Recharge, mobile, MTS, 1112
+Recharge, mobile, Reliance - CDMA, 1113
+Recharge, mobile, Reliance - GSM, 1114
+Recharge, mobile, Telenor - Top Up, 1118
+Recharge, mobile, Telenor - Special, 1119
+Recharge, mobile, T24 - Top Up, 1122
+Recharge, mobile, T24 - Special, 1123
+Recharge, mobile, Tata Indicom, 1115
+Recharge, mobile, Videocon - Top Up, 1120
+Recharge, mobile, Videocon - Special, 1121
+Recharge, mobile, Vodafone, 1104
+Recharge, mobile, Jio, 1126
+Recharge, dth, Airtel dth, 1201
+Recharge, dth, BIG TV, 1202
+Recharge, dth, Dish TV, 1203
+Recharge, dth, Sun Direct, 1204
+Recharge, dth, Tata Sky, 1205
+Recharge, dth, Videocon D2H, 1206
+Recharge, datacard, IDEA NETSETTER , 1301
+Recharge, datacard, Tata Photon , 1302
+Recharge, datacard, Reliance Netconnect , 1303
+Recharge, datacard, Idea NetSetter Postpaid , 1310
+Recharge, datacard, Tata Photom Postpaid , 1311
+Recharge, datacard, Reliance NetConnect Postpaid , 1312
+Recharge, datacard, Tata Indicom Postpaid , 1313
+Recharge, datacard, MTS MBlaze , 1304
+Recharge, mobile, BPL, 1125
+Recharge, datacard, TATA Docomo , 1307
+Recharge, datacard, Vodafone , 1308
+Billpay, electricity, BSES Yamuna , 1502
+Billpay, electricity, Reliance Energy Mumbai , 1503
+Billpay, electricity, MSEB (Maharashtra) , 1504
+Billpay, electricity, Madhya Gujrat Vij Company , 1505
+Billpay, electricity, Dakshin Gujrat Vij Company , 1506
+Billpay, electricity, Paschim Gujrat Vij Company , 1507
+Billpay, electricity, Uttar Gujrat Vij Company , 1508
+Billpay, electricity, North Delhi Power Limited , 1509
+Billpay, electricity, Southern Power Distribution Company Limited , 1510
+Billpay, electricity, BEST , 1511
+Billpay, electricity, Chhattisgarh electricity Board , 1512
+Billpay, electricity, Jaipur Vidyut Vitran Nigam , 1513
+Billpay, electricity, Jamshedpur Utilities & Services(JUSCO) , 1514
+Billpay, electricity, Banglore electricity Supply(BESCOM) , 1515
+Billpay, electricity, MP Paschim Vidyut Vitaran-INDORE , 1516
+Billpay, electricity, Noida Power Company Limited , 1517
+Billpay, gas, Mahanagar gas Limited, 1601
+Billpay, gas, Indraprastha gas Limited, 1602
+Billpay, gas, Gujrat gas Company Limited, 1603
+Billpay, gas, Gujrat State Petroleum Corporation gas, 1604
+Billpay, water, Bangalore Water Bill, 1701
+Billpay, insurance, ICICI Pru Life, 1801
+Billpay, insurance, Tata AIG Life, 1802
+Billpay, insurance, Birla Sun Life, 1803
+Billpay, insurance, IndiaFirst Life, 1804
+Billpay, water, HYDERABAD METROPOLITAN WATER SUPPLY, 1702
+Billpay, mobile, mobile-Aircel , 1414
+Billpay, insurance, LIC, 1805
+Billpay, electricity, SouthernPowerDistributionCompanyofTelanganaLimited, 1518
+Billpay, electricity, UTTAR PRADESH POWER CORPORATION LTD , 1519
+Recharge, datacard, Aircel , 1305
+Recharge, datacard, BSNL , 1306
+Billpay, mobile, Tata TeleServices PostPaid , 1418
+Billpay, mobile, MTS , 1415
+Billpay, mobile, VIRGIN CDMA , 1416
+Billpay, mobile, VIRGIN GSM , 1417
+Billpay, mobile, DOCOMO Postpaid GSM , 1419
+Billpay, electricity, SouthernpowerDistributionCompanyLtdofAndhraPradesh, 1520
+Billpay, electricity, Rajasthan Vidyut Vitran Nigam , 1521
+Billpay, electricity, Calcutta electricity Supply Ltd , 1522
+Billpay, electricity, MP Madhaya Vidyut Vitaran-BHOPAL , 1523
+Billpay, electricity, Torrent Power , 1524
+Billpay, electricity, MSEDC Limited , 1525
+Billpay, electricity, Brihan Mumbai Electric Supply and Transport Undertaking , 1526
+Billpay, gas, ADANI gas, 1605
+Billpay, mobile, Cellone PostPaid , 1420
+Billpay, electricity, Tata Power Mumbai , 1527
+Billpay, electricity, JodhpurVidyut Vitran Nigam Ltd , 1528
+Billpay, electricity, Bhagalpur electricity Distribution Company(P) Ltd , 1529
+Billpay, electricity, India Power Corporation Limited , 1530
+Billpay, electricity, DNH Power Distribution Company Limited , 1531
+Billpay, electricity, Tripura State electricity Board , 1533
+Billpay, electricity, MP Madhya Kshetra Vidyut Vitran Company Ltd - Bhopal , 1534
+Billpay, electricity, MP Madhya Kshetra Vidyut Vitran Company Ltd - Indore , 1535
+Billpay, electriciry, MP Poorv Kshetra Vidyut Vitran Company Ltd - Jabalpur , 1536
+Billpay, electricity, Daman and Diu electricity Department , 1537
+Billpay, electricity, Calcutta electricity Supply Company Limited , 1538
+Billpay, electricity, Meghalaya Power Distribution Corporation Ltd. , 1539
+Billpay, electricity, Ajmer Vidyut Vitran Nigam Ltd. , 1540
+Billpay, mobile, ACT Broadband , 1421
+Billpay, mobile, Hathway Broadband , 1422
+Billpay, mobile, Connect Broadband , 1423
+Billpay, mobile, Spectranet Broadband , 1424
+Recharge, dth, Incable Digital Tv, 1207
+Billpay, mobile, Sony Liv, 1425

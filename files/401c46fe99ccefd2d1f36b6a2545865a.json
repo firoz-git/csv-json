@@ -1,0 +1,639 @@
+[
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "AIRTEL",
+    "AES_API_operator": "1102"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Aircel",
+    "AES_API_operator": "1101"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "BSNL - Top Up",
+    "AES_API_operator": "1105"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "BSNL - Special",
+    "AES_API_operator": "1106"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Docomo - Top Up",
+    "AES_API_operator": "1116"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Docomo - Special",
+    "AES_API_operator": "1117"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Idea",
+    "AES_API_operator": "1103"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTNL - Special",
+    "AES_API_operator": "1107"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTNL - Top Up(Delhi)",
+    "AES_API_operator": "1108"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTNL - Validity(Delhi)",
+    "AES_API_operator": "1109"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTNL - Top Up(Mumbai)",
+    "AES_API_operator": "1110"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTNL - Validity(Mumbai)",
+    "AES_API_operator": "1111"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "MTS",
+    "AES_API_operator": "1112"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Reliance - CDMA",
+    "AES_API_operator": "1113"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Reliance - GSM",
+    "AES_API_operator": "1114"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Telenor - Top Up",
+    "AES_API_operator": "1118"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Telenor - Special",
+    "AES_API_operator": "1119"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "T24 - Top Up",
+    "AES_API_operator": "1122"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "T24 - Special",
+    "AES_API_operator": "1123"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Tata Indicom",
+    "AES_API_operator": "1115"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Videocon - Top Up",
+    "AES_API_operator": "1120"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Videocon - Special",
+    "AES_API_operator": "1121"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Vodafone",
+    "AES_API_operator": "1104"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "Jio",
+    "AES_API_operator": "1126"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Airtel dth",
+    "AES_API_operator": "1201"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "BIG TV",
+    "AES_API_operator": "1202"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Dish TV",
+    "AES_API_operator": "1203"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Sun Direct",
+    "AES_API_operator": "1204"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Tata Sky",
+    "AES_API_operator": "1205"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Videocon D2H",
+    "AES_API_operator": "1206"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "IDEA NETSETTER",
+    "AES_API_operator": "1301"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Tata Photon",
+    "AES_API_operator": "1302"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Reliance Netconnect",
+    "AES_API_operator": "1303"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Idea NetSetter Postpaid",
+    "AES_API_operator": "1310"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Tata Photom Postpaid",
+    "AES_API_operator": "1311"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Reliance NetConnect Postpaid",
+    "AES_API_operator": "1312"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Tata Indicom Postpaid",
+    "AES_API_operator": "1313"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "MTS MBlaze",
+    "AES_API_operator": "1304"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "mobile",
+    "Operator_name": "BPL",
+    "AES_API_operator": "1125"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "TATA Docomo",
+    "AES_API_operator": "1307"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Vodafone",
+    "AES_API_operator": "1308"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "BSES Yamuna",
+    "AES_API_operator": "1502"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Reliance Energy Mumbai",
+    "AES_API_operator": "1503"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MSEB (Maharashtra)",
+    "AES_API_operator": "1504"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Madhya Gujrat Vij Company",
+    "AES_API_operator": "1505"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Dakshin Gujrat Vij Company",
+    "AES_API_operator": "1506"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Paschim Gujrat Vij Company",
+    "AES_API_operator": "1507"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Uttar Gujrat Vij Company",
+    "AES_API_operator": "1508"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "North Delhi Power Limited",
+    "AES_API_operator": "1509"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Southern Power Distribution Company Limited",
+    "AES_API_operator": "1510"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "BEST",
+    "AES_API_operator": "1511"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Chhattisgarh electricity Board",
+    "AES_API_operator": "1512"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Jaipur Vidyut Vitran Nigam",
+    "AES_API_operator": "1513"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Jamshedpur Utilities & Services(JUSCO)",
+    "AES_API_operator": "1514"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Banglore electricity Supply(BESCOM)",
+    "AES_API_operator": "1515"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MP Paschim Vidyut Vitaran-INDORE",
+    "AES_API_operator": "1516"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Noida Power Company Limited",
+    "AES_API_operator": "1517"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "gas",
+    "Operator_name": "Mahanagar gas Limited",
+    "AES_API_operator": "1601"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "gas",
+    "Operator_name": "Indraprastha gas Limited",
+    "AES_API_operator": "1602"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "gas",
+    "Operator_name": "Gujrat gas Company Limited",
+    "AES_API_operator": "1603"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "gas",
+    "Operator_name": "Gujrat State Petroleum Corporation gas",
+    "AES_API_operator": "1604"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "water",
+    "Operator_name": "Bangalore Water Bill",
+    "AES_API_operator": "1701"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "insurance",
+    "Operator_name": "ICICI Pru Life",
+    "AES_API_operator": "1801"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "insurance",
+    "Operator_name": "Tata AIG Life",
+    "AES_API_operator": "1802"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "insurance",
+    "Operator_name": "Birla Sun Life",
+    "AES_API_operator": "1803"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "insurance",
+    "Operator_name": "IndiaFirst Life",
+    "AES_API_operator": "1804"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "water",
+    "Operator_name": "HYDERABAD METROPOLITAN WATER SUPPLY",
+    "AES_API_operator": "1702"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "mobile-Aircel",
+    "AES_API_operator": "1414"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "insurance",
+    "Operator_name": "LIC",
+    "AES_API_operator": "1805"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "SouthernPowerDistributionCompanyofTelanganaLimited",
+    "AES_API_operator": "1518"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "UTTAR PRADESH POWER CORPORATION LTD",
+    "AES_API_operator": "1519"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "Aircel",
+    "AES_API_operator": "1305"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "datacard",
+    "Operator_name": "BSNL",
+    "AES_API_operator": "1306"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Tata TeleServices PostPaid",
+    "AES_API_operator": "1418"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "MTS",
+    "AES_API_operator": "1415"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "VIRGIN CDMA",
+    "AES_API_operator": "1416"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "VIRGIN GSM",
+    "AES_API_operator": "1417"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "DOCOMO Postpaid GSM",
+    "AES_API_operator": "1419"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "SouthernpowerDistributionCompanyLtdofAndhraPradesh",
+    "AES_API_operator": "1520"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Rajasthan Vidyut Vitran Nigam",
+    "AES_API_operator": "1521"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Calcutta electricity Supply Ltd",
+    "AES_API_operator": "1522"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MP Madhaya Vidyut Vitaran-BHOPAL",
+    "AES_API_operator": "1523"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Torrent Power",
+    "AES_API_operator": "1524"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MSEDC Limited",
+    "AES_API_operator": "1525"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Brihan Mumbai Electric Supply and Transport Undertaking",
+    "AES_API_operator": "1526"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "gas",
+    "Operator_name": "ADANI gas",
+    "AES_API_operator": "1605"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Cellone PostPaid",
+    "AES_API_operator": "1420"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Tata Power Mumbai",
+    "AES_API_operator": "1527"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "JodhpurVidyut Vitran Nigam Ltd",
+    "AES_API_operator": "1528"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Bhagalpur electricity Distribution Company(P) Ltd",
+    "AES_API_operator": "1529"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "India Power Corporation Limited",
+    "AES_API_operator": "1530"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "DNH Power Distribution Company Limited",
+    "AES_API_operator": "1531"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Tripura State electricity Board",
+    "AES_API_operator": "1533"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MP Madhya Kshetra Vidyut Vitran Company Ltd - Bhopal",
+    "AES_API_operator": "1534"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "MP Madhya Kshetra Vidyut Vitran Company Ltd - Indore",
+    "AES_API_operator": "1535"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electriciry",
+    "Operator_name": "MP Poorv Kshetra Vidyut Vitran Company Ltd - Jabalpur",
+    "AES_API_operator": "1536"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Daman and Diu electricity Department",
+    "AES_API_operator": "1537"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Calcutta electricity Supply Company Limited",
+    "AES_API_operator": "1538"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Meghalaya Power Distribution Corporation Ltd.",
+    "AES_API_operator": "1539"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "electricity",
+    "Operator_name": "Ajmer Vidyut Vitran Nigam Ltd.",
+    "AES_API_operator": "1540"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "ACT Broadband",
+    "AES_API_operator": "1421"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Hathway Broadband",
+    "AES_API_operator": "1422"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Connect Broadband",
+    "AES_API_operator": "1423"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Spectranet Broadband",
+    "AES_API_operator": "1424"
+  },
+  {
+    "Main_service": "Recharge",
+    "Sub_service": "dth",
+    "Operator_name": "Incable Digital Tv",
+    "AES_API_operator": "1207"
+  },
+  {
+    "Main_service": "Billpay",
+    "Sub_service": "mobile",
+    "Operator_name": "Sony Liv",
+    "AES_API_operator": "1425"
+  },
+  { "Main_service": "" }
+]
